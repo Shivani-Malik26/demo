@@ -1,0 +1,22 @@
+/* article :first-child{
+    color: blue;
+}
+
+article :last-child{
+    color: chartreuse;
+}
+
+article :nth-child(5){
+    color: crimson;
+} */
+
+article p:first-of-type{
+    color: blue;
+}
+article span:last-of-type{
+    color: darkcyan;
+}
+
+article p:nth-of-type(3){
+    color: darkolivegreen;
+}

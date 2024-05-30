@@ -1,0 +1,20 @@
+/* div::first-letter{
+    color: blue;
+    font-size: 30px;
+    font-style: italic;
+} */
+/* p::first-line{
+    color: coral;
+    font-size: 40px;
+    font-style: italic;
+} */
+
+/* p::selection{
+    background-color: aqua;
+    color: aliceblue;
+} */
+
+*::selection{
+    background-color: blueviolet;
+    color: antiquewhite;
+}

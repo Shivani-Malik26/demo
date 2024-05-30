@@ -1,0 +1,11 @@
+article>div>span{
+    color: blue;
+}
+
+article>div>main>p{
+    color: blue;
+}
+
+article>div>span>p{
+    color: blue;
+}

@@ -1,0 +1,18 @@
+/* div[title]{
+    color: blue;
+}
+
+div[title="div1"]{
+    color: purple;
+} */
+
+/* div[title$="block-1"]{
+    color:darkgoldenrod;
+} */
+div[title~="container-2"]{
+    color: darkblue;
+}
+div[title*="1"]{
+    color: rgb(139, 0, 25);
+}
+

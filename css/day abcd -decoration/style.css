@@ -1,0 +1,42 @@
+ p{
+   text-align: center;
+   font-size: 40px;
+   text-transform:capitalize;
+   /* text-decoration:underline;
+   text-decoration-color:black chartreuse;
+   text-decoration-thickness: 2px; */
+   /* text-decoration: 1.5px solid underline; */
+   /* text-underline-offset: 30px; */
+   line-height: 100px;
+   letter-spacing: 3px;
+   word-spacing: 6px;
+   /* -webkit-text-stroke:3px blue ; */
+
+   text-shadow: 2px 3px 4px blueviolet;
+}
+
+
+
+
+  /* p{
+    height: 50vh;
+    border: 2px solid;
+    overflow: scroll;
+}    */
+
+ /* section{
+    width:100vw ;
+    height: 40vh;
+    display:flex;
+    overflow-x: scroll;
+ }
+ div{
+    margin: 10px;
+    min-width: 30vw;
+    height: 30vh;
+    background: brown;
+    
+ }
+ section::- ::-webkit-scrollbar{
+   display:none;
+ }   */

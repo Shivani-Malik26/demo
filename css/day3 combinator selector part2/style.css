@@ -1,0 +1,18 @@
+
+ /* immediate sibling selector
+article+div{
+    color: mediumseagreen;
+}
+
+article+div+div+div{
+    color: deeppink;
+} */
+
+/* general sibling selector
+article~div{
+    color: maroon;
+} 
+  
+ article~div,article~span,article~p{
+    color: salmon;
+ } */

@@ -1,0 +1,24 @@
+/* ul>li::marker{
+    content:"😍";
+}
+
+ol>li::marker{
+    content:"😒";
+} */
+
+/* ul>li:nth-child(odd)::marker{
+    content:"💕";
+}
+ul>li:nth-child(even)::marker{
+    content:"👎";
+} */
+
+div::before{
+    content:"Ram Ram ";
+    color: orangered;
+}
+
+div::after{
+    content:" sarayane....!!🍁🍁";
+    color: green;
+}

@@ -1,0 +1,13 @@
+/* *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+} */
+body{
+    width: 100vw;
+    background-image: url('https://www.hindustantimes.com/static-content/1y/cricket-logos/players/virat-kohli.png');
+    background-size: 600px 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}

@@ -1,0 +1,16 @@
+div{
+    color: aqua;
+}
+
+ #div1{
+    color: deeppink;
+} 
+
+.div11{
+    color: purple !important;
+}
+
+*div{
+    color: blanchedalmond;
+}
+
